@@ -18,6 +18,17 @@
 
 ---
 
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![Java](https://img.shields.io/badge/Java-orange?logo=openjdk)
+![SQL](https://img.shields.io/badge/SQL-lightgrey?logo=mysql)
+![HTML](https://img.shields.io/badge/HTML-red?logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![Git](https://img.shields.io/badge/Git-black?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)
+
+---
+
 ### 📌 Current Goals
 
 * Build strong projects
