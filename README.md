@@ -15,6 +15,7 @@
 * Web: HTML, CSS, JavaScript,React
 * Tools: Git, GitHub, VS Code, Jupyter Notebook
 * Concepts: Data Structures, DBMS, Computer Networks, Operating Systems, OOPS.
+* Solved over 100 leetcode problems.
 
 ---
 
